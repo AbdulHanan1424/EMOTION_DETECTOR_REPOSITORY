@@ -3,14 +3,13 @@ try:
 except ImportError:
     import tkinter as tk
 
-import ttk
-from ttk import Progressbar
+
 from EmotionDetection import WordMap
 import tkMessageBox,tkFileDialog,os
 
 class TrainGUI():
     def __init__(self):
-        main = tk.Tk(self)
+        main = tk.Tk()
         tk.Label(main, text="Text File:", font=(None, 15)).grid(row=0, pady=5)
         tk.Label(main, text="Values File:", font=(None, 15)).grid(row=1)
 
