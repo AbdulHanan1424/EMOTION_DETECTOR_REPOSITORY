@@ -1,0 +1,41 @@
+commit fa58b439d4a829cb500226bcab41568b81e044b8
+Author: Abdul Hanan <42583854+AbdulHanan1424@users.noreply.github.com>
+Date:   Wed Apr 10 03:28:38 2019 +0100
+
+    Error removed from trainingGUI module
+
+commit 27d427a12cf5368e0b4bb26b2bbd702b01ccdfe3
+Author: Abdul Hanan <42583854+AbdulHanan1424@users.noreply.github.com>
+Date:   Wed Apr 10 01:42:16 2019 +0100
+
+    All Files Added
+
+commit 2a4114f4721846d1098ddc25ef1be6689fce2cb4
+Author: Abdul Hanan <42583854+AbdulHanan1424@users.noreply.github.com>
+Date:   Wed Apr 10 01:39:17 2019 +0100
+
+    Information gui added
+
+commit 4832828f9df1c7ff80f5aff5d31a28a2a39e64e7
+Author: Abdul Hanan <42583854+AbdulHanan1424@users.noreply.github.com>
+Date:   Wed Apr 10 01:37:47 2019 +0100
+
+    Evaluate Text gui added
+
+commit bfebc69ed014923485ea6720672205a3eefbe2af
+Author: Abdul Hanan <42583854+AbdulHanan1424@users.noreply.github.com>
+Date:   Wed Apr 10 01:36:09 2019 +0100
+
+    Training gui added
+
+commit 8c121da6aa3f10506e887565ad911a2419278747
+Author: Abdul Hanan <42583854+AbdulHanan1424@users.noreply.github.com>
+Date:   Wed Apr 10 01:34:47 2019 +0100
+
+    Training GUI Added
+
+commit d57b1a8ecbff6f00b053adafc0e57d1e37cea3e9
+Author: Abdul Hanan <42583854+AbdulHanan1424@users.noreply.github.com>
+Date:   Wed Apr 10 01:22:21 2019 +0100
+
+    This is initial commit before GUI and New dataset
